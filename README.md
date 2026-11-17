@@ -4,7 +4,8 @@
 A bank's credit card business is losing customers. The Head of Cards wants to know who is leaving, how early we can spot them, and whether a retention offer is worth the cost.
 
 ## Data
-Kaggle "Credit Card customers" (Sakshi Goyal): 10,127 customers, one row each, with demographics, card details and 12 months of activity.
+Kaggle "Credit Card customers" (Sakshi Goyal): 10,127 customers, one row each, with demographics, card details and 12 months of activity. 
+Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers (raw CSV not committed).
 
 ## Questions
 1. Which customer segments churn the most, and how sure are we?
